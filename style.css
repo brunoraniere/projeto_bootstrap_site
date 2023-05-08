@@ -9,13 +9,16 @@ header{
 }
 
 .navbar-nav .nav-link.active{
+    background-color: #6b6b6b;
     color: white;
-    background-color: rgb(101, 101, 101);
 }
 
 .navbar-nav .nav-link{
     padding-left: 10px;
     text-align: center;
+    background-color: #6b6b6b;
+    color: white;
+    margin-left: 10px;
 }
 
 h2{
